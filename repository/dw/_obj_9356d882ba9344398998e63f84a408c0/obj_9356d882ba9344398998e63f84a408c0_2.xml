@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_9356d882ba9344398998e63f84a408c0</id>
+    <createUser>admin</createUser>
+    <createTime>2019-05-23 10:17:52</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-05-23 10:17:52</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrtm6JmFKGUPggj5M0applT+Nr7eV5w3awYd7ro+JEkZD7ZNSAD0jGG8dwe6cZtsjK</signature>
+    <managed>false</managed>
+    <processGroupId>obj_9356d882ba9344398998e63f84a408c0</processGroupId>
+    <processGroupName>报销类型管理</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_45b04315d4d44165bc418b6c8f67de7b" label="报销类型管理" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/com/awspaas/user/apps/bxsq/controller/CKEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/awspaas/user/apps/bxsq/controller/scoreController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/awspaas/user/apps/bxsq/plugin/MyLenExpression.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/awspaas/user/apps/bxsq/reimburse/CKEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/awspaas/user/apps/bxsq/reimburse/KCdao.java" charset="GBK" />
+  </component>
+</project>

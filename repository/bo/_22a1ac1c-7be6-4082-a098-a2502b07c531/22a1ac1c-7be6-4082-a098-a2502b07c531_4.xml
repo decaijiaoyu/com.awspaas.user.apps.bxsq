@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<boModel>
+    <id>22a1ac1c-7be6-4082-a098-a2502b07c531</id>
+    <createUser>admin</createUser>
+    <createTime>2019-05-11 11:33:34</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-05-11 11:33:34</updateTime>
+    <signature></signature>
+    <managed>false</managed>
+    <title>申请类型</title>
+    <name>BO_EU_STYPE</name>
+    <collection>false</collection>
+    <system>false</system>
+    <deleted>false</deleted>
+    <categoryName>报销流程</categoryName>
+    <administrator>admin</administrator>
+    <entityType>TABLE</entityType>
+    <viewType></viewType>
+    <viewSql></viewSql>
+    <securityLevel>0</securityLevel>
+    <target>_local</target>
+    <itemProps></itemProps>
+    <boItems/>
+    <boIndexs/>
+    <boRelations/>
+</boModel>

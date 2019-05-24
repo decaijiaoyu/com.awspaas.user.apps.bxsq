@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>03bb98b0-6bd6-4312-9128-8c5083f58ce3</id>
+    <createUser>admin</createUser>
+    <createTime>2019-05-23 10:17:30</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-05-23 10:17:30</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrsWFhDCFT4RfN5XzdyIc2mMT/GiZKz3fhXN77n7kagnKbmERfL5Ha8xMKEKfRdVf4</signature>
+    <managed>false</managed>
+    <title>报销申请类型</title>
+    <deleted>false</deleted>
+    <categoryName>报销流程</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>d44898d4-0239-4ccd-8498-7e509b90b966</id>
+            <title>报销申请类型</title>
+            <templateFile>{"tablet":"报销流程-报销申请类型.htm","pc":"报销流程-报销申请类型.htm","mobile":"报销流程-报销申请类型_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>22a1ac1c-7be6-4082-a098-a2502b07c531</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+            <verticalLayout>false</verticalLayout>
+        </formItem>
+    </formItems>
+</formModel>

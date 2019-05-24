@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aws-actions>
+	<cmd-bean name="com.awspaas.user.apps.bxsq_hry">
+		<param name="sid"/>
+		<param name="binid"/>
+	</cmd-bean>
+	<cmd-bean name="com.awspaas.user.apps.bxsq_viewbxd">
+		<param name="sid"/>
+		<param name="id"/>
+		<param name="bindid"/>
+	</cmd-bean>
+</aws-actions>

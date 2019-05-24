@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_7fe1c60e4f8c4ea18f684ed5d2aa540b</id>
+    <createUser>admin</createUser>
+    <createTime>2019-05-23 10:40:50</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-05-23 10:40:50</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGrqXRazID9Arx8wovQ0k1M/f+n3Ka1b8Y6oU8SKmQDR+wuL++ZizlcABLnFzzynQbu</signature>
+    <managed>false</managed>
+    <processGroupId>obj_7fe1c60e4f8c4ea18f684ed5d2aa540b</processGroupId>
+    <processGroupName>报销详细参考维护</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_13bb69299464440581e16a0ac2bbb1e9" label="报销详细参考维护" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>

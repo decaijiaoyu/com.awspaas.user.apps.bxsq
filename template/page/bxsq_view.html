@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="shortcut icon" type="image/ico" href="../favicon.ico"><meta charset="UTF-8">
+    <title>Insert title here</title>
+    <!-- JQuery -->
+    <script type="text/javascript" src="../commons/js/jquery/scripts/jquery.js"></script>
+    <script type="text/javascript" src="../commons/js/jquery/scripts/jquery.textchange.js"></script>
+    <script type="text/javascript" src="../commons/plug-in/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../apps/com.actionsoft.apps.skins.metro/lib/jquery.mobile/jquery.mobile.custom.js"></script>
+</head>
+<body>
+<div id="contains">
+    <table id="btable" class="altrowstable" style="width=80%">
+        <tr>
+            <td>报销类型</td><td>报销部门</td><td>报销编号</td><td>报销人</td><td>报销状态</td>
+        </tr>
+    </table>
+    <form>
+        <form>
+            <div class="form-group">
+                <label for="">报销类型:</label>
+                <input type="email" class="form-control" id="type" >
+            </div>
+            <div class="form-group">
+                <label for="">报销部门:</label>
+                <input type="password" class="form-control" id="dept" >
+            </div>
+            <div class="form-group">
+                <label for="">报销编号:</label>
+                <input type="password" class="form-control" id="cno" >
+            </div>
+            <div class="form-group">
+                <label for="">报销人:</label>
+                <input type="password" class="form-control" id="bman" >
+            </div>
+            <div class="form-group">
+                <label for="">报销状态:</label>
+                <input type="password" class="form-control" id="status" >
+            </div>
+        </form>
+    </form>
+</div>
+</body>
+<script type="text/javascript">
+    $(function(){
+        var bxd = <#bxdBo>;
+        $("#type").val(bxd.TYPE);
+        $("#dept").val(bxd.DEPARTMENT);
+        $("#cno").val(bxd.CNO);
+        $("#bman").val(bxd.REIMBURSEMEN);
+        $("#status").val(bxd.STATUS);
+    })
+
+</script>
+<style type="text/css">
+
+</style>
+</html>

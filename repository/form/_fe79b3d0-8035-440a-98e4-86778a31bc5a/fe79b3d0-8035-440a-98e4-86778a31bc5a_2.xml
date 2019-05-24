@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<formModel>
+    <id>fe79b3d0-8035-440a-98e4-86778a31bc5a</id>
+    <createUser>admin</createUser>
+    <createTime>2019-05-23 10:40:11</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-05-23 10:50:01</updateTime>
+    <signature>tGOmxiTgjT/77UoYpSlq8Vc+hHPRoJWHdZexXc7zEpYuMNdhvSICeJnlc/RzRHGr0rr3zzpdw+6rSlRvwC/aacwMUC9EkPo0ZrZMvFInBdTVqf6mzIxQ8LQ+sefLnaug</signature>
+    <managed>false</managed>
+    <title>报销详细参考维护</title>
+    <deleted>false</deleted>
+    <categoryName>报销流程</categoryName>
+    <administrator>admin</administrator>
+    <defaultLanguage></defaultLanguage>
+    <url></url>
+    <urlHeight></urlHeight>
+    <formItems>
+        <formItem>
+            <id>94bd19c4-0ca3-401a-ae51-38b935dac70f</id>
+            <title>报销详细参考维护</title>
+            <templateFile>{"tablet":"报销流程-报销详细参考维护.htm","pc":"报销流程-报销详细参考维护.htm","mobile":"报销流程-报销详细参考维护_m.htm"}</templateFile>
+            <grid>false</grid>
+            <gridSetting></gridSetting>
+            <orderBy></orderBy>
+            <pageLimit>0</pageLimit>
+            <boModelId>f0787e65-c4de-460d-ba28-e0f2031a3c49</boModelId>
+            <dictionaryFileName></dictionaryFileName>
+            <hiddenHead>false</hiddenHead>
+            <theme>{"pc":"_bpm.platform","mobile":"_bpm.platform"}</theme>
+            <itemDisplays/>
+            <scheme>{"pc":"scheme_aws.css","mobile":""}</scheme>
+            <calcFormula></calcFormula>
+            <conditionControl></conditionControl>
+            <validate></validate>
+            <icon></icon>
+            <gridControl></gridControl>
+            <summaryControl></summaryControl>
+            <ruleControl></ruleControl>
+            <hiddenFields></hiddenFields>
+            <hiddenAddBtn>false</hiddenAddBtn>
+            <verticalLayout>false</verticalLayout>
+        </formItem>
+    </formItems>
+</formModel>

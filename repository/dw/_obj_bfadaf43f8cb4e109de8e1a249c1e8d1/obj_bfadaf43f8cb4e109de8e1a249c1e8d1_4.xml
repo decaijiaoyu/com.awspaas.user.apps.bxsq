@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AWSDWModel>
+    <id>obj_bfadaf43f8cb4e109de8e1a249c1e8d1</id>
+    <createUser>admin</createUser>
+    <createTime>2019-05-24 08:53:20</createTime>
+    <updateUser></updateUser>
+    <updateTime>2019-05-24 08:53:20</updateTime>
+    <signature></signature>
+    <managed>false</managed>
+    <processGroupId>obj_bfadaf43f8cb4e109de8e1a249c1e8d1</processGroupId>
+    <processGroupName>报销流程视图</processGroupName>
+    <categoryName>未分类</categoryName>
+    <dwType>1</dwType>
+    <processAdministrator></processAdministrator>
+    <title id="obj_ff3442f4158f46099507c379bdd0d3b8" label="报销流程视图" extendcode="" event=""/>
+    <userextendbuttons/>
+    <userextendbehaviors/>
+</AWSDWModel>
